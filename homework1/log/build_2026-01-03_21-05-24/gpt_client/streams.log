@@ -1,0 +1,18 @@
+[0.561s] Invoking command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_client': AMENT_PREFIX_PATH=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface LD_LIBRARY_PATH=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-12.8/lib64 PYTHONPATH=/home/lei/my_space/work/work1/gpt_ws/build/gpt_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client/lib/python3.8/site-packages:/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lei/my_space/work/work1/gpt_ws/build/gpt_client/build --no-deps symlink_data
+[0.705s] running develop
+[0.792s] running egg_info
+[0.792s] writing gpt_client.egg-info/PKG-INFO
+[0.792s] writing dependency_links to gpt_client.egg-info/dependency_links.txt
+[0.792s] writing entry points to gpt_client.egg-info/entry_points.txt
+[0.793s] writing requirements to gpt_client.egg-info/requires.txt
+[0.793s] writing top-level names to gpt_client.egg-info/top_level.txt
+[0.812s] reading manifest file 'gpt_client.egg-info/SOURCES.txt'
+[0.812s] writing manifest file 'gpt_client.egg-info/SOURCES.txt'
+[0.835s] running build_ext
+[0.835s] Creating /home/lei/my_space/work/work1/gpt_ws/install/gpt_client/lib/python3.8/site-packages/gpt-client.egg-link (link to .)
+[0.836s] Installing gpt_client script to /home/lei/my_space/work/work1/gpt_ws/install/gpt_client/lib/gpt_client
+[0.836s] Installing llama_client script to /home/lei/my_space/work/work1/gpt_ws/install/gpt_client/lib/gpt_client
+[0.836s] 
+[0.836s] Installed /home/lei/my_space/work/work1/gpt_ws/build/gpt_client
+[0.836s] running symlink_data
+[0.859s] Invoked command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_client' returned '0': AMENT_PREFIX_PATH=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface LD_LIBRARY_PATH=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/local/cuda-12.8/lib64 PYTHONPATH=/home/lei/my_space/work/work1/gpt_ws/build/gpt_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client/lib/python3.8/site-packages:/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lei/my_space/work/work1/gpt_ws/build/gpt_client/build --no-deps symlink_data

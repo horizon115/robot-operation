@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface/libgpt_interface__rosidl_typesupport_fastrtps_cpp.so" "TARGETS" "gpt_interface__rosidl_typesupport_fastrtps_cpp" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

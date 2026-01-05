@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface/rosidl_generator_py/gpt_interface/libgpt_interface__python.so" "TARGETS" "gpt_interface__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

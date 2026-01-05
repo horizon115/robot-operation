@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from gpt_interface/srv/GPT.srv
+// generated code does not contain a copyright notice
+
+
+module gpt_interface {
+  module srv {
+    struct GPT_Request {
+      string data;
+    };
+    struct GPT_Response {
+      boolean res;
+    };
+  };
+};

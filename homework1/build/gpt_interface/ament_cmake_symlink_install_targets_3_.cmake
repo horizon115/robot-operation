@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface/rosidl_generator_py/gpt_interface/gpt_interface_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so" "TARGETS" "gpt_interface__rosidl_typesupport_introspection_c__pyext" "DESTINATION" "lib/python3.8/site-packages/gpt_interface")

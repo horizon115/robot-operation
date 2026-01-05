@@ -1,0 +1,9 @@
+source;share/gpt_client/hook/pythonpath.ps1
+source;share/gpt_client/hook/pythonpath.dsv
+source;share/gpt_client/hook/pythonpath.sh
+source;share/gpt_client/hook/ament_prefix_path.ps1
+source;share/gpt_client/hook/ament_prefix_path.dsv
+source;share/gpt_client/hook/ament_prefix_path.sh
+source;../../build/gpt_client/share/gpt_client/hook/pythonpath_develop.ps1
+source;../../build/gpt_client/share/gpt_client/hook/pythonpath_develop.dsv
+source;../../build/gpt_client/share/gpt_client/hook/pythonpath_develop.sh

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "gpt_interface__py",
+		"source" : "/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface/gpt_interface__py"
+	}
+}

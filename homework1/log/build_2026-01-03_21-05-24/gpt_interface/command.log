@@ -1,0 +1,4 @@
+Invoking command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --build /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface -- -j28 -l28
+Invoked command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --build /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface -- -j28 -l28
+Invoking command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --install /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface
+Invoked command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/local/bin/cmake --install /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface

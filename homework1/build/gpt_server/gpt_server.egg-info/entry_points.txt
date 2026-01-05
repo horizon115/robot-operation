@@ -1,0 +1,3 @@
+[console_scripts]
+gpt_server = gpt_server.gpt_server:main
+

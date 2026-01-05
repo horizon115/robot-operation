@@ -1,0 +1,173 @@
+[0.007s] Invoking command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lei/my_space/work/work1/gpt_ws/install/gpt_server:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client:/opt/ros/foxy /usr/local/bin/cmake /home/lei/my_space/work/work1/gpt_ws/src/gpt_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface
+[0.045s] -- The C compiler identification is GNU 9.4.0
+[0.098s] -- The CXX compiler identification is GNU 9.4.0
+[0.104s] -- Detecting C compiler ABI info
+[0.171s] -- Detecting C compiler ABI info - done
+[0.181s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.181s] -- Detecting C compile features
+[0.182s] -- Detecting C compile features - done
+[0.186s] -- Detecting CXX compiler ABI info
+[0.235s] -- Detecting CXX compiler ABI info - done
+[0.240s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.240s] -- Detecting CXX compile features
+[0.240s] -- Detecting CXX compile features - done
+[0.242s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.260s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.260s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.361s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.373s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[0.375s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.378s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.429s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.446s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.491s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.521s] -- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+[0.606s] -- Found ament_cmake_ros: 0.9.2 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+[0.664s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.668s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.685s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[0.686s] -- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+[0.745s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[0.745s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.745s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[0.746s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[0.775s] -- Found PythonExtra: .so  
+[0.818s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.831s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.832s] -- Added test 'lint_cmake' to check CMake code style
+[0.832s] -- Added test 'xmllint' to check XML markup files
+[0.834s] -- Configuring done
+[0.849s] -- Generating done
+[0.855s] -- Build files have been written to: /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface
+[0.858s] Invoked command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lei/my_space/work/work1/gpt_ws/install/gpt_server:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client:/opt/ros/foxy /usr/local/bin/cmake /home/lei/my_space/work/work1/gpt_ws/src/gpt_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface
+[0.860s] Invoking command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lei/my_space/work/work1/gpt_ws/install/gpt_server:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client:/opt/ros/foxy /usr/local/bin/cmake --build /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface -- -j28 -l28
+[0.873s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[0.875s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.002s] [  6%] Built target gpt_interface__cpp
+[1.005s] [  9%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.005s] [ 16%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.005s] [ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.007s] [ 19%] [32mBuilding C object CMakeFiles/gpt_interface__rosidl_generator_c.dir/rosidl_generator_c/gpt_interface/srv/detail/gpt__functions.c.o[0m
+[1.040s] [ 22%] [32m[1mLinking C shared library libgpt_interface__rosidl_generator_c.so[0m
+[1.053s] [ 22%] Built target gpt_interface__rosidl_generator_c
+[1.056s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.056s] [ 29%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.117s] [ 32%] [32mBuilding CXX object CMakeFiles/gpt_interface__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/gpt_interface/srv/gpt__type_support.cpp.o[0m
+[1.123s] [ 35%] [32mBuilding CXX object CMakeFiles/gpt_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/gpt_interface/srv/detail/gpt__type_support.cpp.o[0m
+[1.128s] [ 38%] [32mBuilding CXX object CMakeFiles/gpt_interface__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/gpt_interface/srv/detail/dds_fastrtps/gpt__type_support.cpp.o[0m
+[1.166s] [ 41%] [32mBuilding CXX object CMakeFiles/gpt_interface__rosidl_typesupport_c.dir/rosidl_typesupport_c/gpt_interface/srv/gpt__type_support.cpp.o[0m
+[1.177s] [ 45%] [32mBuilding C object CMakeFiles/gpt_interface__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/gpt_interface/srv/detail/gpt__type_support.c.o[0m
+[1.215s] [ 51%] [32m[1mLinking CXX shared library libgpt_interface__rosidl_typesupport_c.so[0m
+[1.215s] [ 51%] [32m[1mLinking C shared library libgpt_interface__rosidl_typesupport_introspection_c.so[0m
+[1.225s] [ 51%] Built target gpt_interface__rosidl_typesupport_introspection_c
+[1.231s] [ 51%] Built target gpt_interface__rosidl_typesupport_c
+[1.257s] [ 54%] [32m[1mLinking CXX shared library libgpt_interface__rosidl_typesupport_cpp.so[0m
+[1.263s] [ 58%] [32m[1mLinking CXX shared library libgpt_interface__rosidl_typesupport_introspection_cpp.so[0m
+[1.272s] [ 58%] Built target gpt_interface__rosidl_typesupport_cpp
+[1.292s] [ 58%] Built target gpt_interface__rosidl_typesupport_introspection_cpp
+[1.337s] [ 61%] [32m[1mLinking CXX shared library libgpt_interface__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.378s] [ 61%] Built target gpt_interface__rosidl_typesupport_fastrtps_cpp
+[1.381s] [ 64%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.508s] [ 67%] [32mBuilding CXX object CMakeFiles/gpt_interface__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/gpt_interface/srv/detail/gpt__type_support_c.cpp.o[0m
+[1.720s] [ 70%] [32m[1mLinking CXX shared library libgpt_interface__rosidl_typesupport_fastrtps_c.so[0m
+[1.777s] [ 70%] Built target gpt_interface__rosidl_typesupport_fastrtps_c
+[1.783s] [ 70%] Built target gpt_interface
+[1.789s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[2.059s] [ 74%] Built target gpt_interface__py
+[2.065s] [ 77%] [32mBuilding C object CMakeFiles/gpt_interface__python.dir/rosidl_generator_py/gpt_interface/srv/_gpt_s.c.o[0m
+[2.162s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/gpt_interface/libgpt_interface__python.so[0m
+[2.179s] [ 80%] Built target gpt_interface__python
+[2.186s] [ 83%] [32mBuilding C object CMakeFiles/gpt_interface__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/gpt_interface/_gpt_interface_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[2.186s] [ 87%] [32mBuilding C object CMakeFiles/gpt_interface__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/gpt_interface/_gpt_interface_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[2.186s] [ 90%] [32mBuilding C object CMakeFiles/gpt_interface__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/gpt_interface/_gpt_interface_s.ep.rosidl_typesupport_c.c.o[0m
+[2.232s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/gpt_interface/gpt_interface_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[2.232s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/gpt_interface/gpt_interface_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[2.232s] [100%] [32m[1mLinking CXX shared library rosidl_generator_py/gpt_interface/gpt_interface_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[2.244s] [100%] Built target gpt_interface__rosidl_typesupport_c__pyext
+[2.245s] [100%] Built target gpt_interface__rosidl_typesupport_introspection_c__pyext
+[2.262s] [100%] Built target gpt_interface__rosidl_typesupport_fastrtps_c__pyext
+[2.265s] Invoked command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lei/my_space/work/work1/gpt_ws/install/gpt_server:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client:/opt/ros/foxy /usr/local/bin/cmake --build /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface -- -j28 -l28
+[2.270s] Invoking command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lei/my_space/work/work1/gpt_ws/install/gpt_server:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client:/opt/ros/foxy /usr/local/bin/cmake --install /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface
+[2.273s] -- Install configuration: ""
+[2.274s] -- Execute custom install script
+[2.274s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/ament_index/resource_index/rosidl_interfaces/gpt_interface
+[2.277s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/msg/rosidl_generator_c__visibility_control.h
+[2.280s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__functions.h
+[2.282s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__struct.h
+[2.284s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__type_support.h
+[2.286s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/gpt.h
+[2.289s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/library_path.sh
+[2.292s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/library_path.dsv
+[2.295s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.297s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__rosidl_typesupport_fastrtps_c.h
+[2.299s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_fastrtps_c.so
+[2.300s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.302s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__rosidl_typesupport_fastrtps_cpp.hpp
+[2.304s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_fastrtps_cpp.so
+[2.306s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.307s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__rosidl_typesupport_introspection_c.h
+[2.309s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.310s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__builder.hpp
+[2.312s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__struct.hpp
+[2.314s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__traits.hpp
+[2.315s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__type_support.hpp
+[2.317s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/gpt.hpp
+[2.320s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/include/gpt_interface/srv/detail/gpt__rosidl_typesupport_introspection_cpp.hpp
+[2.322s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/pythonpath.sh
+[2.324s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/pythonpath.dsv
+[2.326s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages/gpt_interface/__init__.py
+[2.328s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages/gpt_interface/srv/__init__.py
+[2.329s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages/gpt_interface/srv/_gpt.py
+[2.331s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages/gpt_interface/gpt_interface_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[2.333s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages/gpt_interface/gpt_interface_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[2.334s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages/gpt_interface/gpt_interface_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[2.336s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__python.so
+[2.338s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/srv/GPT.idl
+[2.339s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/srv/GPT.srv
+[2.341s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/srv/GPT_Request.msg
+[2.343s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/srv/GPT_Response.msg
+[2.344s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/ament_index/resource_index/package_run_dependencies/gpt_interface
+[2.346s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/ament_index/resource_index/parent_prefix_path/gpt_interface
+[2.348s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/ament_prefix_path.sh
+[2.349s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/ament_prefix_path.dsv
+[2.351s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/path.sh
+[2.353s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/environment/path.dsv
+[2.354s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/local_setup.bash
+[2.356s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/local_setup.sh
+[2.357s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/local_setup.zsh
+[2.359s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/local_setup.dsv
+[2.360s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/package.dsv
+[2.362s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/ament_index/resource_index/packages/gpt_interface
+[2.364s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/rosidl_cmake-extras.cmake
+[2.365s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.367s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[2.368s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/ament_cmake_export_targets-extras.cmake
+[2.370s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.371s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.373s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.375s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interfaceConfig.cmake
+[2.376s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interfaceConfig-version.cmake
+[2.378s] -- Symlinking: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/package.xml
+[2.380s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_generator_c.so
+[2.380s] -- Set runtime path of "/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_generator_c.so" to ""
+[2.380s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_introspection_c.so
+[2.380s] -- Set runtime path of "/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_introspection_c.so" to ""
+[2.380s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_c.so
+[2.380s] -- Set runtime path of "/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_c.so" to ""
+[2.380s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_introspection_cpp.so
+[2.380s] -- Set runtime path of "/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_introspection_cpp.so" to ""
+[2.380s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_cpp.so
+[2.380s] -- Set runtime path of "/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/libgpt_interface__rosidl_typesupport_cpp.so" to ""
+[2.400s] Compiling '/home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/lib/python3.8/site-packages/gpt_interface/__init__.py'...
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_generator_cExport.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_generator_cExport-noconfig.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_introspection_cExport.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_cExport.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_cExport-noconfig.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_generator_cppExport.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_introspection_cppExport.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_cppExport.cmake
+[2.402s] -- Installing: /home/lei/my_space/work/work1/gpt_ws/install/gpt_interface/share/gpt_interface/cmake/gpt_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[2.404s] Invoked command in '/home/lei/my_space/work/work1/gpt_ws/build/gpt_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lei/my_space/work/work1/gpt_ws/install/gpt_server:/home/lei/my_space/work/work1/gpt_ws/install/gpt_client:/opt/ros/foxy /usr/local/bin/cmake --install /home/lei/my_space/work/work1/gpt_ws/build/gpt_interface
